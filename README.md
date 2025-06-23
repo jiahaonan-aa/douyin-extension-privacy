@@ -1,0 +1,1 @@
+# douyin-extension-privacy
